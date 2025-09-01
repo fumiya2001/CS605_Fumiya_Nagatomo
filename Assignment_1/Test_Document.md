@@ -13,4 +13,4 @@
 
 ## Observation
 - All operations work correctly as I expexted
-- Devision by 0 also works by displaying 'error' message
+- Devision by 0 also works in this program by displaying 'error' message
