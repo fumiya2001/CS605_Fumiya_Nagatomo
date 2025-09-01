@@ -11,4 +11,8 @@
 | 7 | 9, 0, `/` | error | Error message displayed | 
 ---
 
-### Observation
+## Observation
+| 項目 | 値 |
+|------|----|
+| 名前 | Fumiya |
+| 年齢 | 25 |
