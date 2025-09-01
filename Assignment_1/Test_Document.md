@@ -9,10 +9,8 @@
 | 5 | 8, 4, `/` | 2.0 | 2.0 |
 | 6 | 2, 8, `/` | 0.25 | 0.25|
 | 7 | 9, 0, `/` | error | Error message displayed | 
----
+
 
 ## Observation
-| 項目 | 値 |
-|------|----|
-| 名前 | Fumiya |
-| 年齢 | 25 |
+- All operations work correctly as I expexted
+- Devision by 0 also works by displaying 'error' message
