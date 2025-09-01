@@ -10,3 +10,9 @@
 | 6 | 2, 8, '/' | 0.25 | 0.25|
 | 7 | 9, 0, `/` | error | Error message displayed | 
 ---
+
+```python
+def add(a, b):
+    return a + b
+
+print(add(2, 3))
