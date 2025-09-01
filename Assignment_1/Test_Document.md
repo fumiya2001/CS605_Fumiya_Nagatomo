@@ -11,3 +11,4 @@
 | 7 | 9, 0, `/` | error | Error message displayed | 
 ---
 
+### Observation
