@@ -5,7 +5,7 @@ This is a simple calculator written in python.
 2. Run the first cell, which means it already set up for using simple calculator.
 3. In the second cell, call the function 'Simple_Calculator', defined in the previous line.
 4. Enter two numbers when prompted.
-5. Choose the operation by entering the number assigned to it.
+5. Choose the operation by entering the number assigned to it:
   - 1 -> addition (+)
   - 2 -> subtraction (-)
   - 3 -> multiplication (*)
