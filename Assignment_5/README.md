@@ -7,6 +7,9 @@ This is a binary search tree, written in python
 4. Choose the method from the class that you want to do　　
 
    -a.insert method**: add the appropriate value (name and phone number) to the instance, created in the previous line.
+
    -b. search method: this method can find the value(phone number) correspond to the key(name) is given at first
+
    -c. inorder_traversal method: this method can sort alphabetically by using key(name)
+
    -d. delete method: this method can delete the value(phone number) correspond to the key(name) is given at first
