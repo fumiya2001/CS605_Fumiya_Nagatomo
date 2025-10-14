@@ -8,4 +8,4 @@
 | 4 | search| 'Alice',-- | '555-1234' | '555-1234' | 
 | 5 | search|'David',-- | Name not found | Name not found |
 | 6 | inorder_traversal |--,--| Alice : 555-1234 <br> Bob : 555-2345 <br> Charlie : 555-3456 | Alice : 555-1234 <br> Bob : 555-2345 <br> Charlie : 555-3456|
-| 7 | delete|'Alice', -- | Bob : 555-2345 <br> Charlie : 555-3456 | Alice : 555-1234 <br> Bob : 555-2345 <br> Charlie : 555-3456|
+| 7 | delete|'Alice', -- | Bob : 555-2345 <br> Charlie : 555-3456 | Bob : 555-2345 <br> Charlie : 555-3456|
