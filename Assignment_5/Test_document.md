@@ -1,5 +1,8 @@
 ## Test Document
 
+Suppose we create an instance, bst = BinarySearchTree(), and then we try to apply following method to this instance.
+
+
 | Test Case | Test Method |Input (Name, Phone Number) | Expected Output | Actual Output | 
 |-----------|--------------------------------------|-----------------|---------------|-------|
 | 1 | insert|'Alice','555-1234' | - | - | 
